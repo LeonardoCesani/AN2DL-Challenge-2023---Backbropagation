@@ -1,5 +1,5 @@
 
-# Project: Deep Learning Models for Image Classification and Time Series Forecasting
+# Deep Learning Models for Image Classification and Time Series Forecasting
 
 ## Team: Backbropagation
 - **Gianluca Canzii**: gianluca.canzii@mail.polimi.it
